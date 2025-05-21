@@ -14,7 +14,6 @@ The goal is to provide insights into effective transfer learning strategies for 
 ## Repository Contents
 
 *   `bean-disease-classification.ipynb`: The main Jupyter notebook containing all the Python code for data loading, preprocessing, model benchmarking, stepwise fine-tuning, evaluation, and visualization.
-*   `LICENSE`: Details the open-source license under which this code is made available.
 *   `outputs/`: This directory store generated plots (e.g., training history, confusion matrices and fine-tuned model) and performance summaries after running the notebook.
 
 ## Running the Code
