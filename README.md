@@ -39,7 +39,7 @@ The dataset used in this research is the [Bean disease dataset (iBeans)](https:/
 
 This dataset consists of images of healthy bean leaves and leaves affected by two common diseases: Angular Leaf Spot and Bean Rust.
 
-![](for readme/dataset.jpeg)
+![](https://github.com/tklwin/bean-disease-classification-benchmark-finetuning/for readme/dataset.jpeg)
 
 The code in the notebook will automatically download and extract the dataset from the original source URL provided by the dataset creators using `tf.keras.utils.get_file`.
 
