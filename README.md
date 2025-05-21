@@ -38,8 +38,8 @@ The goal is to provide insights into effective transfer learning strategies for 
 The dataset used in this research is the [Bean disease dataset (iBeans)](https://github.com/AI-Lab-Makerere/ibean).
 
 This dataset consists of images of healthy bean leaves and leaves affected by two common diseases: Angular Leaf Spot and Bean Rust.
+![Alt text]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://github.com/tklwin/bean-disease-classification-benchmark-finetuning/blob/f9f190e18d08c91b5c3c4e7f8c7b5d29cb2dc67e/for%20readme/dataset.jpeg) "a title")
 
-![]([https://github.com/tklwin/bean-disease-classification-benchmark-finetuning/for readme/dataset.jpeg](https://github.com/tklwin/bean-disease-classification-benchmark-finetuning/blob/f9f190e18d08c91b5c3c4e7f8c7b5d29cb2dc67e/for%20readme/dataset.jpeg))
 
 The code in the notebook will automatically download and extract the dataset from the original source URL provided by the dataset creators using `tf.keras.utils.get_file`.
 
