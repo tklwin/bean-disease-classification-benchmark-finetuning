@@ -25,6 +25,6 @@ This notebook is designed to be easily run on Kaggle, providing a convenient clo
 
 ## Dataset
 
-We used (integrated version)[https://github.com/tklwin/bean-disease-classification-finetuning/tree/main/new_bean_dataset] of following datasets:
-iBean dataset: https://github.com/AI-Lab-Makerere/ibean/
-Bangladesh Bean Leaf Dataset: https://data.mendeley.com/datasets/ykvcrjffzd/1
+We used [integrated version](https://github.com/tklwin/bean-disease-classification-finetuning/tree/main/new_bean_dataset) of following datasets:
+- iBean dataset: https://github.com/AI-Lab-Makerere/ibean/
+- Bangladesh Bean Leaf Dataset: https://data.mendeley.com/datasets/ykvcrjffzd/1
